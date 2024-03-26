@@ -106,7 +106,7 @@ theme: next
 deploy:
   type: 'git'
   repo: git@github.com:klaus-cicd/klaus-cicd.github.io.git
-  branch: main
+  branch: page
 
 # 全局搜索插件
 search:
